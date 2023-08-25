@@ -13,3 +13,8 @@ parentPort.postMessage({
     start,
     end: Date.now()
 })
+
+/*parentPort.postMessage({
+    start,
+    end: Date.now()
+})*/
